@@ -44,3 +44,7 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 - Represents the ability of an object to take multiple forms.
 - Allows the same interface to be used for different underlying data types.
 
+
+
+- variables are known as attributes in a class 
+- in Python, self is a reference to the current instance of a class. It is used to access instance variables and methods within the class.
